@@ -1,2 +1,3 @@
 # ml-notebooks
-A collection of ML notebooks for various ML projects
+A collection of Machine Learning notebooks for various ML projects
+Each notebook are listed and described below:
